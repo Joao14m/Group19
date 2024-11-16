@@ -17,7 +17,8 @@
 ## 2. Server/Backend shenanignans
 - 
 ## 3. Database
-  - Table for USERS
+  - Table for Users
+  - Table for Tasks
   <!-- - Table for  -->
 
 
